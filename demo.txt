@@ -31,5 +31,6 @@ common diff options:
   --pickaxe-all
                 show all files diff when -S is used and hit is found.
   -a  --text    treat all files as text.
-
-demo try
+  
+  understanding how git conflicts work
+  
